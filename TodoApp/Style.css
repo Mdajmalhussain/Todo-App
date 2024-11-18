@@ -1,0 +1,15 @@
+
+h1{
+    margin-left: 35%;
+    margin-top: 10%;
+}
+
+.taskbar{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.addbtn{
+    color: aliceblue;
+    background-color: rgb(34, 34, 94);
+}
